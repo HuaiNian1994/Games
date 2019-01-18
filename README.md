@@ -1,2 +1,2 @@
-#### [Doddle Snake]([doodle snake.html](doodle%20snake.html))
+#### [Doddle Snake](doodle%20snake.html)
 
